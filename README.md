@@ -23,7 +23,7 @@ composer install
 ### 3. Configure Environment
 cp .env.example .env
 
-update Database 
+update Database setting
 
 DB_DATABASE=task_manager
 DB_USERNAME=your_username
@@ -58,7 +58,7 @@ Minimal and clean UI using Blade
 
 Tech Stack:
 
-Laravel 11
+Laravel 12
 
 MySQL
 
