@@ -14,7 +14,7 @@ A simple task management web app built with Laravel. Features:
 ### 1. Clone the Project
 
 ```bash
-git clone <repo-url> task-manager
+git clone https://github.com/aliumair662/task-manager
 cd task-manager
 
 ### 2. Install Dependencies
